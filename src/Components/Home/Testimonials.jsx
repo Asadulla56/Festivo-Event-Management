@@ -18,12 +18,12 @@ const Testimonials = () => {
                         <div className="bg-white p-8 rounded-2xl shadow-lg">
                             <div className="flex items-center mb-6">
                                 <img
-                                    src="https://images.unsplash.com/photo-1494790108377-be9c29b29330"
-                                    alt="Sarah Johnson"
+                                    src="/src/assets/Widding palnaer.jpg"
+                                    alt="AM.Asadulla"
                                     className="w-12 h-12 rounded-full object-cover"
                                 />
                                 <div className="ml-4">
-                                    <h4 className="text-lg font-semibold text-gray-900">Sarah Johnson</h4>
+                                    <h4 className="text-lg font-semibold text-gray-900">AM.Asadulla</h4>
                                     <p className="text-blue-600">Wedding Planner</p>
                                 </div>
                             </div>
@@ -35,12 +35,12 @@ const Testimonials = () => {
                         <div className="bg-white p-8 rounded-2xl shadow-lg">
                             <div className="flex items-center mb-6">
                                 <img
-                                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d"
-                                    alt="Michael Chen"
+                                    src="/src/assets/Event Director.JPG"
+                                    alt="AM.Asad Mahmud"
                                     className="w-12 h-12 rounded-full object-cover"
                                 />
                                 <div className="ml-4">
-                                    <h4 className="text-lg font-semibold text-gray-900">Michael Chen</h4>
+                                    <h4 className="text-lg font-semibold text-gray-900">AM.Asad Mahmud</h4>
                                     <p className="text-blue-600">Corporate Event Director</p>
                                 </div>
                             </div>
